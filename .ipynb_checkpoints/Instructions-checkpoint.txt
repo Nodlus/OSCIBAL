@@ -1,0 +1,8 @@
+Pull Main
+Merge main -> branche perso
+Push branche perso
+Edit
+Commit branche perso (Stage, track ...)
+Push branche perso
+Merge Branche perso -> Main
+Push main
